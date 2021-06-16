@@ -1,6 +1,6 @@
 {
   "name": "lab-share-component",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "react",
     "components",
@@ -25,7 +25,6 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "@bit/bit.envs.compilers.react-typescript": "^4.0.0",
     "@craco/craco": "^6.1.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
