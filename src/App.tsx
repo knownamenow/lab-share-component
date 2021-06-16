@@ -1,5 +1,4 @@
-import Card from "./components/Card";
-
+import { Card } from "lab-share-component";
 function App() {
   return (
     <div className="App">
